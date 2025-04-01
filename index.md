@@ -6,7 +6,7 @@
 
 ~~~
 $ git init
-Initalized empty Git repository in Users/skills/Projects/recipe-repository/.git/
+Initalized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ~~~
 
 ~~~ Javascript
