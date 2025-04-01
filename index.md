@@ -4,6 +4,6 @@
 
 ![Screenshot 2025-02-23 182222 image of glowing crystals on top of a desk](https://github.com/user-attachments/assets/dbe2c5e7-6249-4ce8-bff5-4165a259737d)
 
-~~~ 
-var myVar = "Hello. World!";
-~~~
+``` javascript
+var myVar = "Hello, world!";
+```
